@@ -4,5 +4,8 @@
     },
     "Reading Book": {
         "completed": false
+    },
+    "Test": {
+        "completed": false
     }
 }
